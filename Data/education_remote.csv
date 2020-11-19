@@ -1,0 +1,21 @@
+﻿Occupation,Education,Percentage,y,y_pos
+Unemployed,0-8,57.9,57.9,28.95
+Not Remote,0-8,37.42,95.32,76.61
+Partial Remote,0-8,3.16,98.48,96.9
+Complete Remote,0-8,1.52,100,99.24
+Unemployed,9-11,54.88,54.88,27.44
+Not Remote,9-11,34.93,89.81,72.345
+Partial Remote,9-11,7.78,97.59,93.7
+Complete Remote,9-11,2.41,100,98.795
+Unemployed,12,42.2,42.2,21.1
+Not Remote,12,36.39,78.59,60.395
+Partial Remote,12,15.03,93.62,86.105
+Complete Remote,12,6.38,100,96.81
+Unemployed,13-15,38.55,38.55,19.275
+Not Remote,13-15,29.94,68.49,53.52
+Partial Remote,13-15,20.17,88.66,78.575
+Complete Remote,13-15,11.34,100,94.33
+Unemployed,16+,29.55,29.55,14.775
+Not Remote,16+,14.42,43.97,36.76
+Partial Remote,16+,21.71,65.68,54.825
+Complete Remote,16+,34.32,100,82.84
